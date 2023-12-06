@@ -2,19 +2,28 @@
   <div class="col-12">
     <div class="container">
       <div id="projects">
-        <h2> Projects</h2>
+        <h1 class="text-center">My Projects</h1>
         <div class="cards">
           <% data.projects.each do |project| %>
-            <div class="card-product">
-              <%= image_tag project.image, alt: "project image" %>
-              <div class="card-product-infos w-100">
-                <div class="d-flex justify-content-between align-items-center">
+            <div class="card-container d-flex justify-content-start align-items-center gap-4">
+              <div><%= image_tag project.image, alt: "project image" %></div>
+              <div class="card-product">
+                <div class="card-product-infos w-100">
                   <h2><%= project.name %></h2>
-                  <% link_to project.url, class: 'external-link', target: '_blank' do %>
-                    <i class="fas fa-external-link-alt"></i>
-                  <% end %>
+                  <div class="divider"></div>
+                  <p><%= project.description %></p>
+                  <div class="divider"></div>
+                  <div id="tools" class="d-flex justify-content-start align-items-center gap-2"><%= project.tools.html_safe %></div>
+                  <div class="divider"></div>
+                  <div class="d-flex justify-content-start align-items-center gap-2">
+                    <% link_to project.url, class: 'external-link', target: '_blank' do %>
+                      View Site <i class="fas fa-external-link-alt"></i>
+                    <% end %>
+                    <% link_to project.github, class: 'external-link', target: '_blank' do %>
+                      View Source Code <i class="fas fa-external-link-alt"></i>
+                    <% end %>
+                  </div>
                 </div>
-                <p><%= project.description %></p>
               </div>
             </div>
           <% end %>
