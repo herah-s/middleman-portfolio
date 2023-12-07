@@ -1,6 +1,7 @@
 - name: SuiteFit
   description: Suite Fit is a moving app that allows you to see if your furniture/items will fit in an apartment before moving, giving you the confidence you need to commit to a move. If you are a real estate agent, the app also allows you to gauge client interest in specific apartments and close sales more easily.
   image: projects/suite-fit-homepage.png
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://www.suitefit.tech
   github: https://github.com/RLMP44/SuiteFit
@@ -8,6 +9,7 @@
 - name: KnightTime
   description: KnightTime is an app that lets find your next favorite medieval experience or host one yourself.
   image: projects/knight-time-exp-list.png
+  role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://knight-time-f246419c41c0.herokuapp.com/
   github: https://github.com/herah-s/KnightTime
@@ -15,6 +17,7 @@
 - name: Movies Collection
   description: An app that lets you save movies you want to see to themed watch lists.
   image: projects/watch-list.png
+  role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-watch-list-1388-97dc23d10017.herokuapp.com/
   github: https://github.com/herah-s/rails-watch-list
@@ -22,6 +25,7 @@
 - name: Simple AirBnB
   description: A simple AirBnB clone, that lets you list and book places to stay.
   image: projects/placeholder.png
+  role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i>
   url: google.com
   github: https://github.com/herah-s/rails-simple-airbnb
@@ -29,6 +33,7 @@
 - name: Longest Word Game
   description: Decent description of the app
   image: projects/placeholder.png
+  role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i>
   url: google.com
   github: https://github.com/herah-s/rails-simple-airbnb
@@ -36,6 +41,7 @@
 - name: Yelp
   description: Decent description of the app
   image: projects/placeholder.png
+  role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i>
   url: google.com
   github: https://github.com/herah-s/rails-simple-airbnb

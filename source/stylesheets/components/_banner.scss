@@ -6,3 +6,11 @@
 .banner h1 {
   color: white;
 }
+
+.navbar {
+  color: white;
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

@@ -5,7 +5,7 @@
         <h1 class="text-center">My Projects</h1>
         <div class="cards">
           <% data.projects.each do |project| %>
-            <div class="card-container d-flex justify-content-start align-items-center gap-4">
+            <div class="card-container d-flex justify-content-start align-items-center gap-2">
               <div><%= image_tag project.image, alt: "project image" %></div>
               <div class="card-product">
                 <div class="card-product-infos w-100">
@@ -17,10 +17,10 @@
                   <div class="divider"></div>
                   <div class="d-flex justify-content-start align-items-center gap-2">
                     <% link_to project.url, class: 'external-link', target: '_blank' do %>
-                      View Site <i class="fas fa-external-link-alt"></i>
+                      View Site
                     <% end %>
                     <% link_to project.github, class: 'external-link', target: '_blank' do %>
-                      View Source Code <i class="fas fa-external-link-alt"></i>
+                      View Source Code
                     <% end %>
                   </div>
                 </div>
