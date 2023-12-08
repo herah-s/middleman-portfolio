@@ -4,12 +4,23 @@ a {
   text-decoration: none;
   color: white;
   font-family: 'Atkinson Hyperlegible', "Helvetica", "sans-serif";
+
+  &:visited {
+    color: white;
+  }
 }
 
 #about p {
   padding: 0;
+  text-align: justify;
 }
 
 #about {
  width: 50vw;
+}
+
+@media (min-width: 100px) and (max-width: 575px) {
+  #about {
+    width: 100%;
+  }
 }

@@ -30,6 +30,14 @@
   url: google.com
   github: https://github.com/herah-s/rails-simple-airbnb
 
+- name: Block Puzzle
+  description: Decent description of the app
+  image: projects/placeholder.png
+  role: Lead Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>
+  url: google.com
+  github: https://github.com/herah-s/rails-simple-airbnb
+
 - name: Longest Word Game
   description: Decent description of the app
   image: projects/placeholder.png
