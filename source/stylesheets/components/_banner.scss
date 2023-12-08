@@ -24,3 +24,13 @@
     margin: 0;
   }
 }
+
+@media (min-width: 576px) and (max-width: 992px) {
+  .navbar {
+    margin: 0;
+  }
+
+  .banner h1 {
+    margin: 0;
+  }
+}

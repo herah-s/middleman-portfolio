@@ -1,6 +1,6 @@
 - name: SuiteFit
   description: Suite Fit is a moving app that allows you to see if your furniture/items will fit in an apartment before moving, giving you the confidence you need to commit to a move. If you are a real estate agent, the app also allows you to gauge client interest in specific apartments and close sales more easily.
-  image: projects/suite-fit-homepage.png
+  image: projects/suite-fit-250x300.png
   role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://www.suitefit.tech

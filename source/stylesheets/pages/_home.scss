@@ -19,7 +19,17 @@ a {
  width: 50vw;
 }
 
+.main-container {
+  margin: 24px 24px;
+}
+
 @media (min-width: 100px) and (max-width: 575px) {
+  #about {
+    width: 100%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 992px) {
   #about {
     width: 100%;
   }
