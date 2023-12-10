@@ -10,6 +10,8 @@
               <div class="card-product-infos w-100">
                 <h2><%= project.name %></h2>
                 <div class="divider"></div>
+                <small><span>Team: <%= project.team %></span><span> | Timeline: <%= project.timeline %></span><span> | My Role: <%= project.role %></span></small>
+                <br>
                 <p><%= project.description %></p>
                 <div class="divider"></div>
                 <div id="tools" class="d-flex justify-content-start align-items-center gap-2"><%= project.tools.html_safe %></div>

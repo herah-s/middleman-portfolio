@@ -1,15 +1,19 @@
 - name: SuiteFit
-  description: Suite Fit is a moving app that allows you to see if your furniture/items will fit in an apartment before moving, giving you the confidence you need to commit to a move. If you are a real estate agent, the app also allows you to gauge client interest in specific apartments and close sales more easily.
+  description: Suite Fit is a moving app that allows you to see if your furniture/items will fit in an apartment before moving, giving you the confidence you need to commit to a move. If you are a real estate agent, the app also allows you to gauge client interest in specific apartments and close sales more easily. Inspired by all the stress-filled moves we've all experienced. For me, this project became a great learning experience in regards to the user authorization integration in Rails. Otherwise, I mostly implemented backend and real time features.
   image: projects/suite-fit-250x300.png
-  role: Fullstack Developer
+  team: 4 developers
+  timeline: 2 weeks
+  role: Backend/Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://www.suitefit.tech
   github: https://github.com/RLMP44/SuiteFit
 
 - name: KnightTime
-  description: KnightTime is an app that lets find your next favorite medieval experience or host one yourself.
+  description: KnightTime is an app that lets find your next favorite medieval experience or host one yourself. Inspired by the team's shared appreciation of swords. in this project, for the most part I implemented backend and real time features, as well as some frontend styling.
   image: projects/knighttime-250x300.png
-  role: Lead Developer
+  team: 4 developers
+  timeline: 1 week
+  role: Backend/Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://knight-time-f246419c41c0.herokuapp.com/
   github: https://github.com/herah-s/KnightTime
@@ -17,87 +21,109 @@
 - name: Movies Collection
   description: An app that lets you save movies you want to see to themed watch lists.
   image: projects/watchlist-250x300.png
-  role: Lead Developer
+  team: 1 developer
+  timeline: 2 days
+  role: Full-Stack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-watch-list-1388-97dc23d10017.herokuapp.com/
   github: https://github.com/herah-s/rails-watch-list
 
 - name: GIF Search
-  description: Decent description of the app
+  description: Seach for gifs with giphy API. Created as an opportunity to get acquainted with React.js.
   image: projects/giphy-250x300.png
-  role: Lead Developer
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
   tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-react-original dev-icon"></i>  <i class="devicon-webpack-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: https://herah-s.github.io/workshop/
   github: https://github.com/herah-s/workshop
 
 - name: Simple AirBnB
-  description: A simple AirBnB clone, that lets you list and book places to stay.
+  description: A simple AirBnB clone, that lets you list and book places to stay (or seach them).
   image: projects/simple-airbnb-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
+  url: https://rails-simple-flats-1388-cd558e6c1701.herokuapp.com/
   github: https://github.com/herah-s/rails-simple-airbnb
 
 - name: Block Puzzle
-  description: Decent description of the app
+  description: A classic block puzzle, built in JavaScript. You win the game once you have moved all the number blocks inside the puzzle into the right order.
   image: projects/js-puzzle-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: https://herah-s.github.io/block-puzzle/
   github: https://github.com/herah-s/block-puzzle
 
 - name: Yelp MVP
-  description: Decent description of the app
+  description: List all your favorite restaurants or review them.
   image: projects/yelp-mvp-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
+  url: https://rails-restaurants-1388-ac71138a462d.herokuapp.com/
   github: https://github.com/herah-s/rails-yelp-mvp
 
 - name: Longest Word Game
-  description: Decent description of the app
+  description: Come up with the longest English word that can be made from the letters given in the blue blocks. Keep answering to get your score higher!
   image: projects/longest-word-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
+  url: https://rails-longest-word-1388-8557136e82cd.herokuapp.com/
   github: https://github.com/herah-s/rails-longest-word-game
 
 - name: Task Manager
-  description: Decent description of the app
+  description: Keep track of your tasks or chores with this app. Add a comment or mark them as completed when you finish them.
   image: projects/tasks-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
+  url: https://rails-task-manager-1388-3e2c539f0f52.herokuapp.com/
   github: https://github.com/herah-s/rails-task-manager
 
 - name: Wikinimous
-  description: Decent description of the app
+  description: Keep your favorite articles in one place.
   image: projects/wikinimous-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
+  url: https://rails-articles-1388-08619bfd8c89.herokuapp.com/
   github: https://github.com/herah-s/rails-wikinimous
 
 - name: Geocoder
-  description: Decent description of the app
+  description: A simple app to geocode a location on the map. Built using Mapbox API.
   image: projects/geocoder-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: https://herah-s.github.io/js-geocoder/
   github: https://github.com/herah-s/js-geocoder
 
 - name: Weather Forecast
-  description: Decent description of the app
+  description: Check the current weather forecast anywhere in the world. Built using Mapbox API.
   image: projects/weather-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: https://herah-s.github.io/weather-forecast/
   github: https://github.com/herah-s/weather-forecast
 
-- name: Sticky Map
-  description: Decent description of the app
-  image: projects/sticky-map-250x300.png
-  role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
-  url: google.com
-  github: https://github.com/herah-s/sticky-map
+- name: Stupid Coaching
+  description: Your personal motivational coach! If you say "I am going to work", the coach will answer "Great!". If you ask a question, the coach will answer "Silly question, get dressed and go to work!". Say anything else, and the coach will answer "I don't care, get dressed and go to work!".
+  image: projects/stupid-coaching-250x300.png
+  team: 1 developer
+  timeline: 1 day
+  role: Full-Stack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
+  url: https://rails-stupid-coaching-1388-a7a962a532d4.herokuapp.com/ask
+  github: https://github.com/herah-s/rails-stupid-coaching

@@ -16,6 +16,7 @@ a {
 #about p {
   padding: 0;
   text-align: justify;
+  opacity: .9;
 }
 
 #about {
@@ -23,17 +24,23 @@ a {
 }
 
 .main-container {
-  margin: 24px 24px;
+  margin: 24px 116px;
 }
 
 @media (min-width: 100px) and (max-width: 575px) {
   #about {
     width: 100%;
   }
+  .main-container {
+    margin: 24px 8px;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 992px) {
   #about {
     width: 100%;
+  }
+  .main-container {
+    margin: 24px 8px;
   }
 }
