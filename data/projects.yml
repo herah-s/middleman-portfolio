@@ -8,7 +8,7 @@
 
 - name: KnightTime
   description: KnightTime is an app that lets find your next favorite medieval experience or host one yourself.
-  image: projects/knight-time-exp-list.png
+  image: projects/knighttime-250x300.png
   role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://knight-time-f246419c41c0.herokuapp.com/
@@ -16,40 +16,88 @@
 
 - name: Movies Collection
   description: An app that lets you save movies you want to see to themed watch lists.
-  image: projects/watch-list.png
+  image: projects/watchlist-250x300.png
   role: Lead Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-watch-list-1388-97dc23d10017.herokuapp.com/
   github: https://github.com/herah-s/rails-watch-list
 
+- name: GIF Search
+  description: Decent description of the app
+  image: projects/giphy-250x300.png
+  role: Lead Developer
+  tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-react-original dev-icon"></i>  <i class="devicon-webpack-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: https://herah-s.github.io/workshop/
+  github: https://github.com/herah-s/workshop
+
 - name: Simple AirBnB
   description: A simple AirBnB clone, that lets you list and book places to stay.
-  image: projects/placeholder.png
+  image: projects/simple-airbnb-250x300.png
   role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: google.com
   github: https://github.com/herah-s/rails-simple-airbnb
 
 - name: Block Puzzle
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/js-puzzle-250x300.png
   role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: google.com
-  github: https://github.com/herah-s/rails-simple-airbnb
+  github: https://github.com/herah-s/block-puzzle
+
+- name: Yelp MVP
+  description: Decent description of the app
+  image: projects/yelp-mvp-250x300.png
+  role: Lead Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: google.com
+  github: https://github.com/herah-s/rails-yelp-mvp
 
 - name: Longest Word Game
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/longest-word-250x300.png
   role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: google.com
-  github: https://github.com/herah-s/rails-simple-airbnb
+  github: https://github.com/herah-s/rails-longest-word-game
 
-- name: Yelp
+- name: Task Manager
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/tasks-250x300.png
   role: Lead Developer
-  tools: <i class="devicon-rails-plain dev-icon"></i>
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: google.com
-  github: https://github.com/herah-s/rails-simple-airbnb
+  github: https://github.com/herah-s/rails-task-manager
+
+- name: Wikinimous
+  description: Decent description of the app
+  image: projects/wikinimous-250x300.png
+  role: Lead Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: google.com
+  github: https://github.com/herah-s/rails-wikinimous
+
+- name: Geocoder
+  description: Decent description of the app
+  image: projects/geocoder-250x300.png
+  role: Lead Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: google.com
+  github: https://github.com/herah-s/js-geocoder
+
+- name: Weather Forecast
+  description: Decent description of the app
+  image: projects/weather-250x300.png
+  role: Lead Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: google.com
+  github: https://github.com/herah-s/weather-forecast
+
+- name: Sticky Map
+  description: Decent description of the app
+  image: projects/sticky-map-250x300.png
+  role: Lead Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
+  url: google.com
+  github: https://github.com/herah-s/sticky-map
