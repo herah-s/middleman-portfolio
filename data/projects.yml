@@ -15,7 +15,7 @@
   timeline: 1 week
   role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
-  url: https://knight-time-f246419c41c0.herokuapp.com/
+  url: https://knighttime-55359757e6af.herokuapp.com/
   github: https://github.com/herah-s/KnightTime
 
 - name: Movies Collection
