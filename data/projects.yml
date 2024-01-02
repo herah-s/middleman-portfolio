@@ -23,7 +23,7 @@
   image: projects/watchlist-250x300.png
   team: 1 developer
   timeline: 2 days
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-watch-list-1388-97dc23d10017.herokuapp.com/
   github: https://github.com/herah-s/rails-watch-list
@@ -33,17 +33,17 @@
   image: projects/giphy-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-react-original dev-icon"></i>  <i class="devicon-webpack-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: https://herah-s.github.io/workshop/
   github: https://github.com/herah-s/workshop
 
 - name: Simple AirBnB
-  description: A simple AirBnB clone, that lets you list and book places to stay (or seach them).
+  description: A simple AirBnB clone, that lets you list, search and book places to stay.
   image: projects/simple-airbnb-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-simple-flats-1388-cd558e6c1701.herokuapp.com/
   github: https://github.com/herah-s/rails-simple-airbnb
@@ -53,7 +53,7 @@
   image: projects/js-puzzle-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: https://herah-s.github.io/block-puzzle/
   github: https://github.com/herah-s/block-puzzle
@@ -63,7 +63,7 @@
   image: projects/yelp-mvp-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i>  <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-restaurants-1388-ac71138a462d.herokuapp.com/
   github: https://github.com/herah-s/rails-yelp-mvp
@@ -73,7 +73,7 @@
   image: projects/longest-word-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-longest-word-1388-8557136e82cd.herokuapp.com/
   github: https://github.com/herah-s/rails-longest-word-game
@@ -83,7 +83,7 @@
   image: projects/tasks-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-task-manager-1388-3e2c539f0f52.herokuapp.com/
   github: https://github.com/herah-s/rails-task-manager
@@ -93,7 +93,7 @@
   image: projects/wikinimous-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-articles-1388-08619bfd8c89.herokuapp.com/
   github: https://github.com/herah-s/rails-wikinimous
@@ -103,7 +103,7 @@
   image: projects/geocoder-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: https://herah-s.github.io/js-geocoder/
   github: https://github.com/herah-s/js-geocoder
@@ -113,7 +113,7 @@
   image: projects/weather-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i>
   url: https://herah-s.github.io/weather-forecast/
   github: https://github.com/herah-s/weather-forecast
@@ -123,7 +123,7 @@
   image: projects/stupid-coaching-250x300.png
   team: 1 developer
   timeline: 1 day
-  role: Full-Stack Developer
+  role: Fullstack Developer
   tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i> <i class="devicon-css3-plain dev-icon"></i><i class="devicon-heroku-plain dev-icon"></i>
   url: https://rails-stupid-coaching-1388-a7a962a532d4.herokuapp.com/ask
   github: https://github.com/herah-s/rails-stupid-coaching
