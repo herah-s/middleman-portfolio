@@ -1,5 +1,15 @@
+- name: SeatSensei
+  description: A seating chart app for teachers, built with a tablet-first approach. Work in progress!
+  image: projects/placeholder.png
+  team: 4 developers
+  timeline: in progress
+  role: Fullstack Developer
+  tools: <i class="devicon-rails-plain dev-icon"></i> <i class="devicon-javascript-plain dev-icon"></i> <i class="devicon-html5-plain dev-icon"></i><i class="devicon-css3-plain dev-icon"></i><i class="devicon-postgresql-plain dev-icon"></i>
+  url: "#"
+  github: https://github.com/RLMP44/SeatSensei
+
 - name: SuiteFit
-  description: Suite Fit is a moving app that allows you to see if your furniture/items will fit in an apartment before moving, giving you the confidence you need to commit to a move. If you are a real estate agent, the app also allows you to gauge client interest in specific apartments and close sales more easily. Inspired by all the stress-filled moves we've all experienced. For me, this project became a great learning experience in regards to the user authorization integration in Rails. Otherwise, I mostly implemented backend and real time features, ass well as frontend features that involved JavaScript.
+  description: Suite Fit is a moving app that allows you to see if your furniture/items will fit in an apartment before moving, giving you the confidence you need to commit to a move. If you are a real estate agent, the app also allows you to gauge client interest in specific apartments and close sales more easily. Inspired by all the stress-filled moves we've all experienced. For me, this project became a great learning experience in regards to the user authorization integration in Rails. Otherwise, I mostly implemented backend and real time features, as well as frontend features that involved JavaScript.
   image: projects/suite-fit-250x300.png
   team: 4 developers
   timeline: 2 weeks
