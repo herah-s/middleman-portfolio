@@ -49,7 +49,7 @@
   github: https://github.com/herah-s/rails-simple-airbnb
 
 - name: Block Puzzle
-  description: A classic block puzzle, built in JavaScript. You win the game once you have moved all the number blocks inside the puzzle into the right order.
+  description: A classic block puzzle, built in JavaScript. You win the game once you have moved all the number blocks inside the box into the right order.
   image: projects/js-puzzle-250x300.png
   team: 1 developer
   timeline: 1 day
